@@ -1,0 +1,15 @@
+---
+title: Heuristics 10
+subtitle: Programming contest
+layout: default
+modal-id: 8
+date: 2017-09-06
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: September 2017
+client: Start Bootstrap
+category: Contest
+description: Heuristics 10 held in september 2017.
+
+---
